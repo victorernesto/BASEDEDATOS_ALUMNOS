@@ -1,0 +1,5 @@
+C:\Users\50376\Documents\GitHub\BASEDEDATOS_ALUMNOS\ALUMNOS\ALUMNOS\obj\Debug\ALUMNOS.csproj.AssemblyReference.cache
+C:\Users\50376\Documents\GitHub\BASEDEDATOS_ALUMNOS\ALUMNOS\ALUMNOS\obj\Debug\ALUMNOS.Properties.Resources.resources
+C:\Users\50376\Documents\GitHub\BASEDEDATOS_ALUMNOS\ALUMNOS\ALUMNOS\obj\Debug\ALUMNOS.VISTA.Form1.resources
+C:\Users\50376\Documents\GitHub\BASEDEDATOS_ALUMNOS\ALUMNOS\ALUMNOS\obj\Debug\ALUMNOS.csproj.GenerateResource.cache
+C:\Users\50376\Documents\GitHub\BASEDEDATOS_ALUMNOS\ALUMNOS\ALUMNOS\obj\Debug\ALUMNOS.csproj.CoreCompileInputs.cache
